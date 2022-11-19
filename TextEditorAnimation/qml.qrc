@@ -1,23 +1,19 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
         <file>font/NexaBold.otf</file>
-        <file>icons/linkDisabled.png</file>
-        <file>icons/linkEnabled.png</file>
-        <file>icons/menuDisabled.png</file>
-        <file>icons/menuEnabled.png</file>
+        <file>AppThemes.qml</file>
         <file>DRect.qml</file>
+        <file>DTextArea.qml</file>
+        <file>main.qml</file>
         <file>icons/textLock.png</file>
         <file>icons/textStrikeDisabled.png</file>
         <file>icons/textStrikeEnabled.png</file>
         <file>icons/textUnlock.png</file>
-        <file>DTextArea.qml</file>
         <file>icons/textUnderLineDisabled.png</file>
         <file>icons/textUnderLineEnabled.png</file>
         <file>icons/textBoldDisabled.png</file>
         <file>icons/textBoldEnabled.png</file>
         <file>icons/textItalicDisabled.png</file>
         <file>icons/textItalicEnabled.png</file>
-        <file>AppThemes.qml</file>
     </qresource>
 </RCC>

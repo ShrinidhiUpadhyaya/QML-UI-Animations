@@ -8,18 +8,17 @@ Window {
     visible: true
     width: 640
     height: 480
-    title: qsTr("Hello World")
+    title: qsTr("TextEditorAnimation")
 
     Rectangle {
         id: rootRect
 
         anchors.fill: parent
-        color: "transparent"
+        color: AppThemes.transparentColor
 
         MouseArea {
             anchors.fill: parent
             onClicked: {
-                console.log("Clicked")
                 rootRect.forceActiveFocus()
                 textArea.textEditable = false
             }
@@ -28,8 +27,6 @@ Window {
         DTextArea {
             id: textArea
 
-            width: 250
-            height: 100
             anchors.centerIn: parent
         }
     }

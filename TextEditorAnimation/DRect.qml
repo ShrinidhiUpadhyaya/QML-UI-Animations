@@ -13,6 +13,12 @@ Rectangle {
         }
     }
 
+    Behavior on x {
+        NumberAnimation {
+            duration: AppThemes.animationDuration
+        }
+    }
+
     Behavior on anchors.bottomMargin {
         NumberAnimation {
             duration: AppThemes.animationDuration
