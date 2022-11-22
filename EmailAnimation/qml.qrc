@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AppThemes.qml</file>
+        <file>DRect.qml</file>
+        <file>DEmailField.qml</file>
+        <file>icons/arrowIcon.png</file>
+        <file>icons/accountIcon.png</file>
+        <file>icons/emailIcon.png</file>
+        <file>icons/passwordIcon.png</file>
+        <file>DVibrateAnimation.qml</file>
+        <file>DIconRect.qml</file>
+    </qresource>
+</RCC>
