@@ -1,5 +1,4 @@
 # QML-UI-Animations
-QML UI Animations.
 
 **Email Animation**
 <p align="center">
