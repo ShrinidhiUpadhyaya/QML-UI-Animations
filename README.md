@@ -1,11 +1,11 @@
 # QML-UI-Animations
 
-##Email Animation
+## Email Animation
 <p align="center">
 <img src="https://github.com/ShrinidhiUpadhyaya/QML-UI-Animations/blob/main/EmailAnimation/EmailAnimation.gif" />
 </p>
 
-##Text Editor Animation
+## Text Editor Animation
 <p align="center">
 <img src="https://github.com/ShrinidhiUpadhyaya/QML-UI-Animations/blob/main/TextEditorAnimation/TextEditorAnimation.gif" />
 </p>
