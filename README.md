@@ -1,2 +1,25 @@
 # QML-UI-Animations
-QML UI Implementations.
+QML UI Animations.
+
+<p align="center">
+<img src="https://github.com/ShrinidhiUpadhyaya/QML-UI-Animations/blob/main/EmailAnimation/EmailAnimation.gif" />
+</p>
+
+<p align="center">
+<img src="https://github.com/ShrinidhiUpadhyaya/QML-UI-Animations/blob/main/TextEditorAnimation/TextEditorAnimation.gif" />
+</p>
+
+**Email Animation Inspiration/Credits:**
+* (https://digitalsynopsis.com/design/ui-ux-animation-inspiration/)
+* (https://screenlane.com/?ref=uimovement))
+
+**Text Editor Animation Inspiration/Credits:**
+* (https://digitalsynopsis.com/design/ui-ux-animation-inspiration/)
+* (https://screenlane.com/?ref=uimovement)
+
+<p>
+Icons were designed using Figma and its plugins.
+</p>
+
+**Note:**
+* If any bugs please do contribute or reach out to me.
